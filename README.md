@@ -1,0 +1,2 @@
+# manitest
+just for test
